@@ -1,0 +1,10 @@
+name: PlayerNotify
+main: me.zackpollard.playernotify.PlayerNotify
+version: "1.0"
+commands:
+    punchalert:
+        description: Toggle the punchcraft player alert!
+        usage: /punchalert
+    pn:
+        description: Reload the config with /pn reload
+        usage: /pn reload
